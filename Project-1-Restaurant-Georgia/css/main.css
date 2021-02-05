@@ -408,7 +408,7 @@ body {
 
 .card {
   width: 33.3333%;
-  height: 25vw;
+  height: 30vw;
   position: relative;
   overflow: hidden; }
   .card:hover .card-overlay {
